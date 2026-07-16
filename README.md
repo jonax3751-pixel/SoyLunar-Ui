@@ -27,9 +27,14 @@
 
 ...column-start vertical=spacedBy(10)
 
-...button-outlined text="🌎 MCPvP Club • Somente Original" event="launch_game {server=mcpvp.club}" width=55% shape=20dp
+...button-outlined text="🍄 MushMc • Pirata & Original" event="launch_game {server=Mush.com.br}" width=55% shape=20dp
 
-...button-outlined text="🔥 Balacobaco • Original e Pirata" event="launch_game {server=balacobaco.net}" width=55% shape=20dp
+...button-outlined text="🟪 Kaizen Mc• Original e Pirata" event="launch_game {server=Kaizenmc.gg}" width=55% shape=20dp
+
+...button-outlined text="🟦 Hylex Mc• Original e Pirata" event="launch_game {server=hylex.gg}" width=55% shape=20dp
+
+...button-outlined text=" 🟨 Hyris mc• Original e Pirata" event="launch_game {server=Hyris.gg}" width=55% shape=20dp
+
 
 ...column-end
 
