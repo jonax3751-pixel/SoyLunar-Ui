@@ -21,6 +21,20 @@
 - - -
 
 
+**💻 » Entrar Direto em Servers que eu jogo:**
+
+&nbsp;
+
+...column-start vertical=spacedBy(10)
+
+...button-outlined text="🌎 MCPvP Club • Somente Original" event="launch_game {server=mcpvp.club}" width=55% shape=20dp
+
+...button-outlined text="🔥 Balacobaco • Original e Pirata" event="launch_game {server=balacobaco.net}" width=55% shape=20dp
+
+...column-end
+
+- - -
+
 ## 🌙  Sobre a SoyLunar  UI 0.1.2
 
 - Visual limpo e moderno.
