@@ -9,7 +9,8 @@
 
 ...button  text="» Verificar atualização do ZL2 "  event="check_update"
 
-...image  url=" "
+...image  url="https://raw.githubusercontent.com/RussoViller/russostyle-saves/main/BackgroundEraser_20260524_164626498.png" width=24% shape=0dp
+"
 
 ...column-end
 
