@@ -11,6 +11,16 @@
 ...column-end
 
 - - -
+## SoyLunar Criador Da Ui
+
+...column-start horizontal=Center
+
+..image url="https://raw.githubusercontent.com/jonax3751-pixel/SoyLunar-Ui/refs/heads/main/custom-ava.png" width=25%
+shape=20dp
+
+...columm-end
+
+- - -
 
 ## 📦 ZalithLauncher2:
 
